@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "異世異形たちの廃オカルト博物館へようこそ",
+  "base_artist": "かめりあ",
+  "createdAt": "2026-01-13T17:41:25.159731Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "異世異形たちの廃オカルト博物館へようこそ",
+      "artist": "かめりあ & ななひら",
+      "has_synced": false,
+      "path": "select/pl_01_異世異形たちの廃オカルト博物館へようこそ_かめりあ_&_ななひら.txt"
+    }
+  ]
+}
